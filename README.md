@@ -1,4 +1,4 @@
-# AI-Powered-Docuent-Analysis-and-Document-Creation
+# AI-Powered-Document-Analysis-and-Document-Creation
 utilize AI technologies for analyzing study documents in PDF. . The ideal candidate(s) will be responsible for developing both front and backend of an application that answers questions (chatbot style) based on the analysis of documents (in hundreds), provide rule-based decision support, and present findings through dashboard that includes relevant statistics and trends with some drill-down capabilities. If you have a strong background in GENAI, data analysis, and dashboard creation, we would love to hear from you!
 
 =============================================
